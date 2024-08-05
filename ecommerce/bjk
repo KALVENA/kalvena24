@@ -1,0 +1,8 @@
+#h1{
+        color: aqua;
+        text-align: center;
+
+}
+#p{
+    color: #d10d0d;
+}    
